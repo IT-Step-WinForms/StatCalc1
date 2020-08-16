@@ -1,0 +1,10 @@
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\bin\Debug\StatCalc1.exe.config
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\bin\Debug\StatCalc1.exe
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\bin\Debug\StatCalc1.pdb
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csprojAssemblyReference.cache
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.Form1.resources
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.Properties.Resources.resources
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csproj.GenerateResource.cache
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.csproj.CoreCompileInputs.cache
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.exe
+C:\Cloud\Google Drive\Pavlo\09-WinForms\Classwork\03\StatCalc1\StatCalc1\obj\Debug\StatCalc1.pdb
